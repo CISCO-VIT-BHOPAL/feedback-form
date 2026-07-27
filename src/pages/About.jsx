@@ -11,7 +11,7 @@ export default function About({ theme }) {
   ];
 
   const leadership = [
-    { name: 'Shubham', role: 'President', dept: 'Leadership', i: 'SH' },
+    { name: 'Shubham Kumar', role: 'President', dept: 'Leadership', i: 'SH' },
     { name: 'Eesh Mishra', role: 'Vice President', dept: 'Leadership', i: 'EM' },
     { name: 'Siya Dessai', role: 'General Secretary', dept: 'Leadership', i: 'SD' },
     { name: 'Priyam Prakash', role: 'General Secretary', dept: 'Leadership', i: 'PP' },
